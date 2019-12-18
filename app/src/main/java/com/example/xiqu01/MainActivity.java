@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
         Log.d("xiqu","this is test");
     }
 
+    public void init2(){
+        Log.d("xiqu","this is test 2");
+    }
+
 }
