@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
     public void init3(){
         Log.d("xiqu","this is test 3");
     }
+    public void init4(){
+        Log.d("xiqu","this is test 4");
+    }
 
 
 }
