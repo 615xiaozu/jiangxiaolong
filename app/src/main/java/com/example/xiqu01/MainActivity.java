@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void init(){
-        Log.d("xiqu","this is test");
+        Log.d("xiqu","this is test   ");
     }
 
     public void init2(){
@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
 
     public void init5(){
         Log.d("xiqu","this is test 5");
+    }
+    public void init6(){
+        Log.d("xiqu","this is test 6");
     }
 
 
