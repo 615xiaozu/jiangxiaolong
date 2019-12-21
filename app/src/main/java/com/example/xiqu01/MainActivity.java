@@ -30,6 +30,9 @@ public class MainActivity extends AppCompatActivity {
     public void init5(){
         Log.d("xiqu","this is test 5");
     }
+    public void init6(){
+        Log.d("xiqu","this is test 6");
+    }
 
 
 }
