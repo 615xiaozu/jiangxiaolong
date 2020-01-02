@@ -38,5 +38,9 @@ public class MainActivity extends AppCompatActivity {
         Log.d("xiqu","this is test 7");
     }
 
+    public void init8(){
+        Log.d("xiqu","this is test 8  新增jiang分支");
+    }
+
 
 }
