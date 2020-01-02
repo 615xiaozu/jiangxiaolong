@@ -47,5 +47,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void init10(){
+        Log.d("xiqu","嘻嘻哈哈");
+    }
+
 
 }
